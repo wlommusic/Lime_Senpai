@@ -1,3 +1,3 @@
 # Lime_Senpai
 @Lime_Senpai
-[webiste deployed on](https://limesenpai.netlify.app/)
+[webiste deployed on Netlify](https://limesenpai.netlify.app/)
